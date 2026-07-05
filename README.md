@@ -25,3 +25,28 @@ If you want to open this project in Unity and explore the code or play it direct
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/VoidRunner.git](https://github.com/YOUR_USERNAME/VoidRunner.git)
+
+##Open via Unity Hub:
+
+1- Open Unity Hub.
+
+2- Click on the Add or Open button.
+
+3- Navigate to the folder where you cloned the repository and select the VoidRunner folder.
+
+### Load the Scenes:
+
+1- Once the Unity Editor opens, go to the Project window at the bottom.
+
+2- Navigate to Assets > Scenes.
+
+3- Double-click on MainMenu (or the specific name of your menu scene) to load the starting screen.
+
+#### Play!
+
+* Click the Play (▶) button at the top center of the Unity Editor to start the game.
+
+## ⌨️ Controls
+* **Movement:** Simply move your mouse! The rocket will automatically accelerate and follow your cursor.
+
+* **UI Navigation:** Left-click to interact with the Main Menu and Game Over screen buttons.
