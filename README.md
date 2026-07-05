@@ -1,15 +1,27 @@
-# VoidRunner
-A fast-paced 2D survival game built with Unity. Control a space rocket using mouse tracking, collect randomly spawning points, and dodge obstacles to achieve the highest score.
+# VoidRunner 🚀
 
-## About The Project
-This project is a 2D arcade-style survival game developed using Unity and C#. The core mechanic revolves around a space rocket that continuously follows the player's mouse cursor. The objective is to navigate through the void, avoid dynamic obstacles, and collect target spheres that spawn at random locations to increase the score.
+A fast-paced 2D survival arcade game developed with Unity. Test your reflexes as you pilot a spaceship through the void, dodging dynamic obstacles and collecting targets to achieve the highest score!
 
-## Key Features:
+## 🎮 Gameplay & Features
+* **Mouse-Tracking Mechanics:** The rocket continuously follows the player's mouse cursor with smooth physics.
+* **Dynamic Environment:** Obstacles and collectible score spheres spawn at random locations, making every session unique.
+* **Complete UI System:** Fully functional Main Menu, Game Over screen, and real-time score tracking.
+* **Endless Survival:** The game gets progressively challenging as you try to survive in the void.
 
-1- Smooth mouse-tracking movement mechanics
+## 🛠️ Tech Stack
+* **Game Engine:** Unity 6
+* **Language:** C#
+* **Graphics:** Universal Render Pipeline (URP)
 
-2- Endless gameplay with dynamic point spawning
+## 🚀 How to Run the Game
 
-3- Complete UI system (Main Menu, Game Over screen, Score tracking)
+If you want to open this project in Unity and explore the code or play it directly from the editor, follow these steps:
 
-4- Built with Unity 6 (Universal Render Pipeline)
+### Prerequisites
+* You need to have **Unity Hub** and **Unity 6** (or a compatible version) installed on your system.
+* **Visual Studio** (or your preferred code editor) for viewing C# scripts.
+
+### Installation Steps
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/VoidRunner.git](https://github.com/YOUR_USERNAME/VoidRunner.git)
