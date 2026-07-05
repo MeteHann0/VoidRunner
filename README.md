@@ -26,7 +26,7 @@ If you want to open this project in Unity and explore the code or play it direct
    ```bash
    git clone [https://github.com/YOUR_USERNAME/VoidRunner.git](https://github.com/YOUR_USERNAME/VoidRunner.git)
 
-##Open via Unity Hub:
+## Open via Unity Hub:
 
 1- Open Unity Hub.
 
