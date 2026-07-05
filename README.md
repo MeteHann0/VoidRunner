@@ -42,7 +42,7 @@ If you want to open this project in Unity and explore the code or play it direct
 
 3- Double-click on MainMenu (or the specific name of your menu scene) to load the starting screen.
 
-#### Play!
+### Play!
 
 * Click the Play (▶) button at the top center of the Unity Editor to start the game.
 
